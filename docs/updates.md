@@ -1,6 +1,6 @@
 # Update History
 
-## Version 2021.08.05 [*Update 1 - Yes I'm Changing*]
+## Version 2021.08.05 [*Update 1*]
 
 This is the first true update to the raytracer! It's not a terribly focused update, and it includes commits from as far back as May.
 The main results of the update are some significant optimization, several new primitives, refactoring and restructuring, and of course
